@@ -4,11 +4,13 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
-      <h1>HOME PAGE</h1>
+      <h1>Home Page</h1>
 
       <div>
-        <Link href="produtos/tenis">TENIS</Link> | 
-        <Link href="produtos/produto/tenis-preto"> TENIS PRETO</Link>
+        <Link href="posts/dinamicas/estranho/[slug]/post1">Post1</Link> | 
+        <Link href="posts/dinamicas/estranho/[slug]/post2"> Post2</Link> | 
+        <Link href="posts/dinamicas/estranho/[slug]/post3">Post3</Link> | 
+        <Link href="posts/dinamicas/estranho/[slug]/post4"> Post4</Link> | 
       </div>
     </>
   )

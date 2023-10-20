@@ -6,12 +6,8 @@ export default function Home() {
     <>
       <h1>Home</h1>
 
-      <div>
-        <Link href="/posts/dinamicas/estranho/1/post1">Post1</Link> | 
-        <Link href="/posts/dinamicas/estranho/1/post2"> Post2</Link> | 
-        <Link href="/posts/dinamicas/estranho/1/post3">Post3</Link> | 
-        <Link href="/posts/dinamicas/estranho/1/post4"> Post4</Link> | 
-      </div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At sapiente quaerat expedita quam culpa porro atque cum eum nemo impedit quis corporis reprehenderit molestiae ipsam, voluptatum modi, repellat iure incidunt.</p>
+
     </>
   )
 }

@@ -12,7 +12,13 @@ export default function Post2() {
 
       <p><Link href = "/">VOLTAR</Link></p>
 
-      
+      <figure>
+        <Image src="/images/post2.png"
+        width={500}
+        height={500}
+        alt="Post3"
+        />
+      </figure>
 
       </div>
     )

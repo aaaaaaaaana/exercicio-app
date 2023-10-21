@@ -10,6 +10,8 @@ export default function Post2() {
            Quam accusantium ducimus ad.
         </p>
 
+      <p><Link href = "/">VOLTAR</Link></p>
+
       
 
       </div>

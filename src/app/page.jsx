@@ -1,13 +1,15 @@
-import Link from "next/link";
+
 
 
 export default function Home() {
   return (
-    <>
-      <h1>Home</h1>
+    <div>
+      <h1>Inicio da page</h1>
 
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At sapiente quaerat expedita quam culpa porro atque cum eum nemo impedit quis corporis reprehenderit molestiae ipsam, voluptatum modi, repellat iure incidunt.</p>
+      <div>
+        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae tenetur molestiae totam aliquam tempore qui eius consequatur, placeat et beatae quae accusamus quam molestias perspiciatis id esse quaerat dolores sit modi deleniti soluta debitis itaque? Sint iste animi illo, doloribus ipsum veritatis quo? Quasi dolorem officia esse itaque velit, fugiat rerum sint ducimus omnis quam fugit provident culpa accusamus ipsa qui temporibus voluptate nemo voluptates debitis id quo ad veritatis nam doloremque! Animi, quidem fugiat. Qui mollitia laborum debitis officiis accusamus omnis consequuntur perferendis, quo maxime praesentium aliquam, hic suscipit corporis dolor et nam, cumque laboriosam? Accusantium temporibus dolorum sit!</p>
+      </div>
 
-    </>
+    </div>
   )
 }

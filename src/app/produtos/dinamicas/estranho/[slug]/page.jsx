@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 
-export default function MeusPosts({params}) {
+export default function MeusProdutos({params}) {
   return (
     <div>
         <h1>Recuperando o parâmetro [slug]</h1>

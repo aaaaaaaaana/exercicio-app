@@ -4,12 +4,18 @@
 export default function Home() {
   return (
     <div>
-      <h1>Inicio da page</h1>
+      <br/>
+      <h1>Home</h1>
+        <br/>
+        <p>Exercício 3 - CP6</p>
+          <br/>
 
-      <div>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae tenetur molestiae totam aliquam tempore qui eius consequatur, placeat et beatae quae accusamus quam molestias perspiciatis id esse quaerat dolores sit modi deleniti soluta debitis itaque? Sint iste animi illo, doloribus ipsum veritatis quo? Quasi dolorem officia esse itaque velit, fugiat rerum sint ducimus omnis quam fugit provident culpa accusamus ipsa qui temporibus voluptate nemo voluptates debitis id quo ad veritatis nam doloremque! Animi, quidem fugiat. Qui mollitia laborum debitis officiis accusamus omnis consequuntur perferendis, quo maxime praesentium aliquam, hic suscipit corporis dolor et nam, cumque laboriosam? Accusantium temporibus dolorum sit!</p>
-      </div>
-
+          <p>1- Crie uma rota chamada produtos. <br/></p>
+          <p>2- Adicione um produto de nome item.(Faça o teste com os seguintes parâmetros camisa,
+                  calça, sapato, boné e óculos). <br/> </p>
+          <p>3- Crie um único card. <br/></p> 
+          <p> No página quando receber o parâmetro, dependendo de qual parâmetro chegar,
+                carregue neste card a imagem referente ao produto passado. </p>
     </div>
   )
 }
